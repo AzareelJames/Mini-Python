@@ -11,3 +11,4 @@ exec("print('hello!')", data)
 # Note!
 Some features are added or removed.
 They're different versions of mini python.
+But you cannot pip install for mini python.
