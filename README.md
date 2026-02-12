@@ -10,3 +10,4 @@ exec("print('hello!')", data)
 
 # Note!
 Some features are added or removed.
+They're different versions of mini python.
